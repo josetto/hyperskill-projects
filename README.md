@@ -1,9 +1,9 @@
 # Hyper Skill Projects 💻
 ## Online Platform Learning
 
-The projects you can see in this repository are completed in the [JetBrains/Hyperskill Academy](https://hyperskill.org/). / 
-You can check my profile here: [Josset Garcia](https://hyperskill.org/profile/243404094)/ 
-Current track in progress: [Java backend developer](https://hyperskill.org/tracks/12)/
+The projects you can see in this repository are completed in the [JetBrains/Hyperskill Academy](https://hyperskill.org/).\
+You can check my profile here: [Josset Garcia](https://hyperskill.org/profile/243404094)\
+Current track in progress: [Java backend developer](https://hyperskill.org/tracks/12)\
 ## 
 ---
 ## Source Code
